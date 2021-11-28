@@ -17,7 +17,7 @@ font-family: 'Roboto', sans-serif;
   height: 100vh;
   background-image:
   linear-gradient(to top, rgb(31, 25, 25), rgba(0,0,0,50%)),
-  url('/pexels-pixabay-208537.jpg');
+  url('pexels-pixabay-208537.jpg');
   background-size: cover;
   background-position: center;
 
