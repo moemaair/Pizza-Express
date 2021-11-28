@@ -44,18 +44,8 @@ $().ready(function(){
 })
 
 
+// mobile view menu
 
-increaseBtn.addEventListener('click', ()=>{
-  var payAmount = document.querySelector('.payAmount')
-  var multiple = totalToString * 2;
-  payAmount.innerHTML = `KES ${multiple}`;
 
-})
-decreaseBtn.addEventListener('click', ()=>{
-  var payAmount = document.querySelector('.payAmount')
-  var divided = totalToString / 2;
-  payAmount.innerHTML = `KES ${divided}`;
-
-})
 
 
