@@ -3,6 +3,12 @@
   margin: 0;
   box-sizing: border-box;
 }
+.demo{
+background-color: black;}
+.cart{
+height: 100vh;
+border:  2px solid red;
+}
 body{
   width: 100vw;
   height: 100vh;
@@ -22,6 +28,7 @@ font-family: 'Roboto', sans-serif;
   background-position: center;
 
 }
+
 
 h1{
 transform: translateY(350px);
